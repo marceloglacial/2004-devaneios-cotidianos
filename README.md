@@ -5,7 +5,6 @@ My first blog.
 
 * HTML
 * CSS
-* JavaScript
 
 
 ## Live Demo
