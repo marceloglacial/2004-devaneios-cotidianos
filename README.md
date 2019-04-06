@@ -9,7 +9,7 @@ My first blog.
 
 ## Live Demo
 
-https://glacial.gitlab.io/2004-devaneios-cotidianos/
+https://marceloglacial.github.io/2004-devaneios-cotidianos/front-end/
 
 ## Screnshot
 
